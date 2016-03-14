@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   s.default_subspec = "StaticFramework"
 
-  s.prepare_command = "touch Empty.m && cp SplunkMint.framework/SplunkMint libSplunkMint.a && cp SplunkMint.framework/Headers/* ."
+  # s.prepare_command = "touch Empty.m && cp SplunkMint.framework/SplunkMint libSplunkMint.a && cp SplunkMint.framework/Headers/* ."
 
   s.subspec "StaticFramework" do |ss|
     ss.public_header_files = "SplunkMint.framework/Versions/A/Headers/*.h"
