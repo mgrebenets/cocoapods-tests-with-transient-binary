@@ -1,0 +1,18 @@
+PODS:
+  - SplunkMint (4.4.2):
+    - SplunkMint/StaticFramework (= 4.4.2)
+  - SplunkMint/StaticFramework (4.4.2)
+
+DEPENDENCIES:
+  - SplunkMint (from `splunkmint`)
+
+EXTERNAL SOURCES:
+  SplunkMint:
+    :path: splunkmint
+
+SPEC CHECKSUMS:
+  SplunkMint: 8b9049c85e4c6733e35d6536899bf850608d9ae8
+
+PODFILE CHECKSUM: f759f5c8a71908ba0380e5418613f98baaf31301
+
+COCOAPODS: 1.0.0.beta.4

@@ -1,0 +1,1 @@
+../../../../../splunkmint/SplunkMint.framework/Versions/A/Headers/NSArray+SPLJSONModel.h
